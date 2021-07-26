@@ -1,0 +1,6 @@
+shared runner on VBT 
+C:\Users\abbas.baman\OneDrive - Cerence Inc\Recordings
+
+
+Stages:
+  -docker-build
